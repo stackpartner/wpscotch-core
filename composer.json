@@ -1,0 +1,20 @@
+{
+    "name": "stackpartner/wpscotch-core",
+    "description": "Site-specific WordPress plugin for WPScotch",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Tharindu Pramuditha",
+            "email": "tharindutpk@gmail.com"
+        }
+    ],
+    "require": {
+        "cmb2/cmb2": "^2.9",
+        "johnbillion/extended-cpts": "^4.5"
+    },
+    "autoload": {
+        "files": [
+            "vendor/cmb2/cmb2/init.php"
+        ]
+    }
+}

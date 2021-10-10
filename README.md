@@ -1,0 +1,1 @@
+# wpscotch-core
